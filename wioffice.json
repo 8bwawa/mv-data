@@ -4,6 +4,11 @@
 			"note": "some notes",
 			"person": "E1:73:0E:F8:79:2D",
 			"plcace": "3"
+		},
+		{
+			"note": "note2",
+			"person": "person3",
+			"plcace": "room2"
 		}
 	],
 	"note": "ask about WiOffice",
