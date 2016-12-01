@@ -1,5 +1,16 @@
 {
-	"notification": [],
+	"notification": [
+		{
+			"note": "some notes",
+			"person": "E1:73:0E:F8:79:2D",
+			"plcace": "3"
+		},
+		{
+			"note": "some notes",
+			"person": "E1:73:0E:F8:79:2D",
+			"plcace": "0"
+		}
+	],
 	"note": "ask about WiOffice",
 	"person": "E1:73:0E:F8:79:2D",
 	"plcace": "3",
