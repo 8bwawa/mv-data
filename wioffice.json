@@ -1,18 +1,1 @@
-{
-	"notification": [
-		{
-			"note": "note2",
-			"person": "E1:73:0E:F8:79:2D",
-			"plcace": "3"
-		},
-		{
-			"note": "note3",
-			"person": "person3",
-			"plcace": "room2"
-		}
-	],
-	"note": "ask about WiOffice",
-	"person": "E1:73:0E:F8:79:2D",
-	"plcace": "3",
-	"@type": "wioffice"
-}
+
